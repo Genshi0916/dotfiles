@@ -1,0 +1,18 @@
+        # 🎉 :tada: Initial Commit
+        # 👍 :+1: 機能改善
+        # ✨ :sparkles: 部分的な機能追加
+        # 🗑️ :wastebasket: 削除
+        # 🎨 :art: デザイン変更のみ
+        # 💢 :anger: コンフリクト
+        # 📝 :pencil: 文言修正
+        # ♻" :recycle: リファクタリング
+        # 🔖 :bookmark: バージョンタグ
+        # 🐛 :bug: バグ修正
+        # 💚 :green_heart: テストやCIの修正・改善
+        # 👕 :shirt: Lintエラーの修正やコードスタイルの修正
+        # 🚀 :rocket: パフォーマンス改善
+        # 🆙 :up: 依存パッケージなどのアップデート
+        # 👮 :police_officer: セキュリティ関連の改善
+        # ⚙" :gear: config変更
+        # 📚 :books: ドキュメント
+        # 🚧 :construction: WIP

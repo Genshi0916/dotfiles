@@ -1,0 +1,5 @@
+[user]
+	name = Genshi0916
+	email = genshi0916@gmail.com
+[commit]
+	template = /home/genshi/.gitmessage.txt
