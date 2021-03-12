@@ -4,7 +4,7 @@ dotfileをいい感じに管理するやつ
 # Setup
  
 ```bash
-$ git clone https://github.com/Genshi0916/dotfiles.git
+$ git clone --recursive https://github.com/Genshi0916/dotfiles.git
 $ cd dotfiles
 $ chmod +x install.sh
 $./install.sh
