@@ -2,13 +2,13 @@
 dotfileをいい感じに管理するやつ
 
 # Setup
- 
+
 ```bash
-$ git clone --recursive https://github.com/Genshi0916/dotfiles.git
+$ git clone --recursive https://github.com/addtobasic/dotfiles.git
 $ cd dotfiles
 $ chmod +x install.sh
 $./install.sh
-``` 
+```
 # References
 * https://qiita.com/rainbartown/items/d7f59fe4047733c14e8b
 * https://qiita.com/ganariya/items/d9adffc6535dfca6784b

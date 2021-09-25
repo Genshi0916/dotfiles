@@ -23,3 +23,5 @@ export PATH="$HOME/.deno/bin:$PATH"
 
 # pyenv
 export PATH="$HOME/.pyenv/bin:$PATH"
+
+setopt +o nomatch
