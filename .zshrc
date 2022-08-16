@@ -15,13 +15,17 @@ promptinit
 prompt skwp theme
 
 # rbenv
-eval "$(rbenv init -)"
-export PATH="$HOME/.rbenv/bin:$PATH"
+# eval "$(rbenv init -)"
+# export PATH="$HOME/.rbenv/bin:$PATH"
 
 # deno
 export PATH="$HOME/.deno/bin:$PATH"
 
 # pyenv
 export PATH="$HOME/.pyenv/bin:$PATH"
+
+# starship
+eval "$(starship init zsh)"
+
 
 setopt +o nomatch

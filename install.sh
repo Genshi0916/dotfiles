@@ -17,3 +17,8 @@ for f in .??*; do
     # シンボリックリンクを貼る
     ln -snfv ${PWD}/"$f" ~/
 done
+
+# starshipの導入
+cp starship.toml ~/.config
+sudo apt install cmake
+cargo install starship
